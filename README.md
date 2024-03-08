@@ -1,2 +1,2 @@
 # table
-Multiple Tables
+Table of 2
